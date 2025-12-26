@@ -38,5 +38,7 @@
 | Khushi Shorey          | khushishorey            | IIIT Allahabad |
 | Manisha katariya       | chanchukatariya5        | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
+| Somesh Pawan Kamad      | Entropy-rgb         | IIIT Hyderabad                                                |
+
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
