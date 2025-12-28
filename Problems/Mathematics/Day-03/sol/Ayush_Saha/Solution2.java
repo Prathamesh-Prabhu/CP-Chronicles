@@ -22,8 +22,8 @@ For improper fractions we can convert it to mixed form i.e for a > b, we can wri
 Proper fractions mean the resistors are arranged in parallel.
 The simplest proper fraction to work with is of the type 1 / b, which means b resistors arranged in parallel.
 The first step of the converting a proper fraction to it's continued fraction form is to convert it into an improper fraction.
-So a / b becomes 1 / (b / a). Now we conver b / a to it's mixed form. We keep doing this until we get r / b, where r = 1.
-We keep tracking k, because that gives us number of resistors arranged in series the final b, gives the last few resistors
+So a / b becomes 1 / (b / a). Now we convert b / a to it's mixed form ki + (ri / ai). We keep doing this until we get r / ai, where r = 1.
+We keep tracking ki, because that gives us number of resistors arranged in series the final ai, gives the last few resistors
     that are arranged in parallel.
 */
 
